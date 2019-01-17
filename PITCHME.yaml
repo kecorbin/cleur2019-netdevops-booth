@@ -1,6 +1,3 @@
-# GitPitch In-60-Seconds - A Very Short Tutorial.
-#
-
 #
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
@@ -30,7 +27,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "NetDevOps Booth"
 
 #
 # Published Setting
